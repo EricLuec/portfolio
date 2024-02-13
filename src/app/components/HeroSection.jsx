@@ -25,7 +25,7 @@ const HeroSection = () => {
                         1000,
                         "a Backend Engineer",
                         1000,
-                        "a Nature Lover",
+                        "add skill ",
                         1000
                     ]}
                     wrapper="span"
