@@ -31,10 +31,10 @@ Those additional packages were installed :
 This section contains screenshots of the page
 
 ## Starting-Page
-### Further Infos
 
 ## About
-### Description
+
+## Projects
 
 ## Contact
 

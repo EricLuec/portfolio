@@ -32,7 +32,7 @@ const HeroSection = () => {
                     />
                 </h1>
                 <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lf:text-xl">
-                    This is my description
+                    
                 </p>
                 <div></div>
             </div>
