@@ -20,7 +20,7 @@ The website is made with NextJS and react.
 Those additional packages were installed : 
 
 - [React-Animated-Numbers](https://www.npmjs.com/package/react-animated-number)
-- [Framer-Motion] (https://www.npmjs.com/package/framer-motion)
-- [LinkedIn-Icon] (http://www.w3.org/2000/svg)
-- [GitHub-Icon] (http://www.w3.org/2000/svg)
-- [Icons] (https://heroicons.com/)
+- [Framer-Motion](https://www.npmjs.com/package/framer-motion)
+- [LinkedIn-Icon](http://www.w3.org/2000/svg)
+- [GitHub-Icon](http://www.w3.org/2000/svg)
+- [Icons](https://heroicons.com/)
