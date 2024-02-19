@@ -8,6 +8,7 @@ As you've already read, this repo contains my portfolio website. This readME wil
 2. [Table of Contents](#TableofContents)
 3. [Basics](#Basics)
 4. [Further Recources](#FurtherRecources)
+5. 
 9. [Contact](#Contact)
 
 # Basics
@@ -19,5 +20,7 @@ The website is made with NextJS and react.
 Those additional packages were installed : 
 
 - [React-Animated-Numbers](https://www.npmjs.com/package/react-animated-number)
-- Element 2
-- Element 3
+- [Framer-Motion] (https://www.npmjs.com/package/framer-motion)
+- [LinkedIn-Icon] (http://www.w3.org/2000/svg)
+- [GitHub-Icon] (http://www.w3.org/2000/svg)
+- [Icons] (https://heroicons.com/)
