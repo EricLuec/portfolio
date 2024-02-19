@@ -5,9 +5,9 @@ As you've already read, this repo contains my portfolio website. This readME wil
 # TableofContents
 
 1. [Portfolio](#Portfolio)
-2. [Table of Contens](#TableofContents)
-3. [Basics] (#Basics)
-4. [Further Recources] (#Further Recources)
+2. [Table of Contents](#TableofContents)
+3. [Basics](#Basics)
+4. [Further Recources](#Further Recources)
 9. [Contact](#Contact)
 
 # Basics
