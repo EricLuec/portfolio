@@ -1,6 +1,6 @@
 # Portfolio
 
-As you've already read, this repo contains my portfolio website. This readME will present function and details of the website. 
+As you've already read, this repo contains my portfolio website. This readme will present function and details of the website. 
 
 # TableofContents
 
