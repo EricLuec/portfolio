@@ -28,9 +28,18 @@ Those additional packages were installed :
 
 # Showcase
 
+This section contains screenshots of the page
+
 ## Starting-Page
+### Further Infos
+
+## About
+### Description
+
+## Contact
 
 # Deployment 
+Pull the project, install the missing dependencies and execute:
 
 ```bash
 npm run dev
