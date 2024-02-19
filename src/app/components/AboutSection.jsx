@@ -9,12 +9,12 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Cybersecurity</li>
-        <li>Linux</li>
-        <li>MySQL</li>
-        <li>MongoDB</li>
-        <li>JavaScript</li>
-        <li>React</li>
+        <p>● Cybersecurity</p>
+        <p>● Linux</p>
+        <p>● MySQL</p>
+        <p>● MongoDB</p>
+        <p>● JavaScript</p>
+        <p>● React</p>
       </ul>
     ),
   },
@@ -23,7 +23,12 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Informatikmittelschule Bühlrein Winterthur</li>
+        <p>● Informatikmittelschule Bühlrein Winterthur</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
       </ul>
     ),
   },
@@ -32,7 +37,12 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Yet to come</li>
+        <p>● Yet to come</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
       </ul>
     ),
   },
