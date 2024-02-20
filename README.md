@@ -39,6 +39,7 @@ Contains a small text about me and listigns for skills and experience, education
 ![Screenshot from 2024-02-19 18-50-00](https://github.com/EricLuec/portfolio/assets/140081980/166b5f1f-903a-4d06-8bb3-8b15b992c959)
 
 ## Projects
+Easily customizable cards to present my past and current projects. Categories to differentiate Web-Applications and Full-Stack-Applications. Also has a link to the GitHub-Page of the project in question.
 ![Screenshot from 2024-02-19 18-50-09](https://github.com/EricLuec/portfolio/assets/140081980/03294e49-675d-4acb-9c92-e22e6ff48052)
 
 ## Contact
