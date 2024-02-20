@@ -13,7 +13,7 @@ As you've already read, this repo contains my portfolio website. This readme wil
 
 # Basics
 
-The website is made with NextJS, React and TailwindCSS.
+The website is made with NextJS, React and TailwindCSS. Those options were chosen to provide fast and easy customisation later on.
 
 # FurtherRecources
 
@@ -31,6 +31,7 @@ Those additional packages were installed :
 This section contains screenshots of the page:
 
 ## Starting-Page
+ The landingpage contains animated text, an easily customizable archievementsbar and a navbar.
 ![Screenshot from 2024-02-19 18-52-19](https://github.com/EricLuec/portfolio/assets/140081980/1c492b80-8251-4297-a472-c2c669f6e9f5)
 
 ## About
