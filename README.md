@@ -43,6 +43,7 @@ Easily customizable cards to present my past and current projects. Categories to
 ![Screenshot from 2024-02-19 18-50-09](https://github.com/EricLuec/portfolio/assets/140081980/03294e49-675d-4acb-9c92-e22e6ff48052)
 
 ## Contact
+An E-Mail form. Didnt connect a mailserver yet so this part is basically useless, but i thought it would be a good exercise. 
 ![Screenshot from 2024-02-19 18-50-19](https://github.com/EricLuec/portfolio/assets/140081980/394d1fb2-f63d-46eb-88ae-30287b975466)
 
 # Deployment 
