@@ -35,6 +35,7 @@ This section contains screenshots of the page:
 ![Screenshot from 2024-02-19 18-52-19](https://github.com/EricLuec/portfolio/assets/140081980/1c492b80-8251-4297-a472-c2c669f6e9f5)
 
 ## About
+Contains a small text about me and listigns for skills and experience, education and additional certificates.
 ![Screenshot from 2024-02-19 18-50-00](https://github.com/EricLuec/portfolio/assets/140081980/166b5f1f-903a-4d06-8bb3-8b15b992c959)
 
 ## Projects
