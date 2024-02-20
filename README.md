@@ -31,9 +31,7 @@ Those additional packages were installed :
 This section contains screenshots of the page:
 
 ## Starting-Page
- The landingpage contains animated text, an easily customizable archievementsbar and a navbar.
-
- 
+ The landingpage contains animated text, an easily customizable archievementsbar and a navbar.\ 
 ![Screenshot from 2024-02-19 18-52-19](https://github.com/EricLuec/portfolio/assets/140081980/1c492b80-8251-4297-a472-c2c669f6e9f5)
 
 ## About
