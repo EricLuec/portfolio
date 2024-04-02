@@ -1,6 +1,6 @@
 # Portfolio
 
-As you've already read, this repo contains my portfolio website. This readme will present function and details of the website. This readme and the website itself is still in progress.
+As you've already read, this repo contains my portfolio website. This readme will present function and details of the website. This readme and the website itself is still in progress. 
 ![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 # TableofContents
