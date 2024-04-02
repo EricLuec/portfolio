@@ -16,11 +16,11 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "title 2",
-    description: "Project 2 description",
-    image: "/images/projects/placeholder.webp",
-    tag: ["All", "Web"],
-    gitUrl: "/",
+    title: "Obsidian Vault",
+    description: "Writing Documentations about several IT-Topics in Obsidian",
+    image: "/images/projects/obsidian.png",
+    tag: ["All", "Other"],
+    gitUrl: "https://github.com/EricLuec/obsidian",
     previewUrl: "/",
   },
   {
@@ -99,6 +99,11 @@ const ProjectsSection = () => {
           onClick={handleTagChange}
           name="Full-Stack"
           isSelected={tag === "Full-Stack"}
+        />
+        <ProjectTag
+          onClick={handleTagChange}
+          name="Other"
+          isSelected={tag === "Other"}
         />
       </div>
       <ul ref={ref} className="grid md:grid-cols-3 gap-8 md:gap-12">
