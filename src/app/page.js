@@ -4,7 +4,6 @@ import Navbar from "./components/Navbar";
 import { Container } from "postcss";
 import AboutSection from "./components/AboutSection";
 import ProjectsSection from "./components/ProjectsSection";
-import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
 import AchievementsSection from "./components/ArchievementsSection";
 
@@ -17,7 +16,6 @@ export default function Home() {
         <AchievementsSection />
         <AboutSection />
         <ProjectsSection />
-        <EmailSection />
         <Footer />
         </div>
     </main>
