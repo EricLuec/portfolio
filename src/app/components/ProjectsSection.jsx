@@ -8,8 +8,8 @@ const projectsData = [
   {
     id: 1,
     title: "React Portfolio Website",
-    description: "Project 1 description",
-    image: "/images/projects/placeholder.webp",
+    description: "Meine persönliche Website",
+    image: "/images/projects/portfolio.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EricLuec/portfolio",
     previewUrl: "/",
