@@ -52,6 +52,26 @@ const TAB_DATA = [
       </ul>
     ),
   },
+  {
+    title: "Contact",
+    id: "contact",
+    content: (
+      <ul className="list-disc pl-2">
+        <a
+          href='https:/linkedin.com'
+          target={"_blank"}
+          rel={"noreferrer"}>● LinkedIn
+        </a>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      </ul>
+    ),
+  }
 ];
 
 const AboutSection = () => {
@@ -97,6 +117,13 @@ const AboutSection = () => {
             >
               {" "}
               Certifications{" "}
+            </TabButton>
+            <TabButton
+              selectTab={() => handleTabChange("contact")}
+              active={tab === "contact"}
+            >
+              {" "}
+              Contact{" "}
             </TabButton>
           </div>
           <div className="mt-8">
