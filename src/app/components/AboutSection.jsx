@@ -11,10 +11,12 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <p>● Cybersecurity</p>
         <p>● Linux</p>
-        <p>● MySQL</p>
+        <p>● SQL</p>
         <p>● MongoDB</p>
         <p>● JavaScript</p>
         <p>● React</p>
+        <p>● Java/Spring</p>
+        <p>● DevOps</p>
       </ul>
     ),
   },
@@ -23,6 +25,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
+        <p>● Accenture CyberSecurity-Applikationsentwickler</p>
         <p>● Informatikmittelschule Bühlrein Winterthur</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
@@ -38,6 +41,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <p>● Yet to come</p>
+        <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
@@ -66,7 +70,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             I currently on my way to become a full stack developer from Zurich, Switzerland 🇨🇭. I have experience
-            working with JavaScript, React, Java, MongoDB, MySQL, HTML, CSS and Git. I am a quick learner and I am always
+            working with JavaScript, React, Java, MongoDB, MySQL, HTML, CSS and DevOps. I am a quick learner and I am always
             looking to expand my knowledge and skill set. I am a team player and
             I am excited to work with others to create amazing applications.
           </p>
